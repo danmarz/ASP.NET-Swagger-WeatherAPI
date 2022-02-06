@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21721186-dbda-4cc0-84a4-563c1828ab0a": {
+      "ProjectGuid": "21721186-dbda-4cc0-84a4-563c1828ab0a",
+      "DisplayName": "ASP.NET-TodoAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
